@@ -1,0 +1,16 @@
+{
+  "name": "d",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 1234",
+    "build": "next build",
+    "start": "next start -p 1234"
+  },
+  "dependencies": {
+    "@lyket/react": "^1.3.5",
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
