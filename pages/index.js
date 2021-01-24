@@ -5,8 +5,9 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.js</code>
+          This is a Notion Lyket embed widget. Check how to add this to your
+          Notion project{" "}
+          <a href="https://github.com/lyket-dev/notion-embed">here</a>
         </p>
       </main>
     </div>
