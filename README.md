@@ -18,13 +18,15 @@ If you want to experiment a little before deploying it, clone it and add your pe
 
 The easiest way to deploy your Lyket widget app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), choose your repo and deploy.
 
-Remember to add your personal API key as environment variable in your Vercel app settings [/settings/environment-variables]
+Remember to add your personal API key as environment variable in your Vercel app settings [/settings/environment-variables]. Use the name NEXT_PUBLIC_LYKET_API_KEY.
 
 Trigger a new deploy to apply the changes.
 
 ## See the buttons on Notion
 
-Now you can use the address of your deployed app to create Lyket buttons. For example:
+Now you can use the address of your deployed app to create Lyket buttons in an iframe or Notion.
+
+For example:
 
 - https://my-app/like-button/my-blog/my-post will create a like button with namespace my-blog and my-post as ID
 - https://my-app/clap-button/my-blog/my-post will create a clap button with namespace my-blog and my-post as ID
