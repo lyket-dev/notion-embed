@@ -18,7 +18,7 @@ import { LikeButton } from '@lyket/react';
       </div>
     )
   }}
-</LikeButton>
+</LikeButton>;
 
 import { useRouter } from "next/router";
 
