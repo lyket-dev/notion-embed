@@ -2,7 +2,7 @@ import { LikeButton } from "@lyket/react";
 import { useRouter } from "next/router";
 
 <Provider
-  apiKey="st_37c8c8b56b1a1efadfad5978811009"
+  apiKey="pt_69f886ba5ef0a518d4a43a896a51d9"
   theme={{
     colors: {
       background: "rgba(255, 224, 138, 0.4)",
